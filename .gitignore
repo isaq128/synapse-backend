@@ -1,0 +1,22 @@
+# Next.js
+.next/
+out/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.local
+.env.production
+.env.development
+
+# Misc
+*.log
+*.tmp
+.DS_Store
